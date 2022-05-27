@@ -1,0 +1,30 @@
+C:\Users\ASUS\source\repos\VeriYapilariProje\VeriYapilariProje\obj\Debug\VeriYapilariProje.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\VeriYapilariProje\VeriYapilariProje\obj\Debug\VeriYapilariProje.Form1.resources
+C:\Users\ASUS\source\repos\VeriYapilariProje\VeriYapilariProje\obj\Debug\VeriYapilariProje.Properties.Resources.resources
+C:\Users\ASUS\source\repos\VeriYapilariProje\VeriYapilariProje\obj\Debug\VeriYapilariProje.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\VeriYapilariProje\VeriYapilariProje\obj\Debug\VeriYapilariProje.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\VeriYapilariProje\VeriYapilariProje\bin\Debug\VeriYapilariProje.exe.config
+C:\Users\ASUS\source\repos\VeriYapilariProje\VeriYapilariProje\bin\Debug\VeriYapilariProje.exe
+C:\Users\ASUS\source\repos\VeriYapilariProje\VeriYapilariProje\bin\Debug\VeriYapilariProje.pdb
+C:\Users\ASUS\source\repos\VeriYapilariProje\VeriYapilariProje\obj\Debug\VeriYapilariProje.exe
+C:\Users\ASUS\source\repos\VeriYapilariProje\VeriYapilariProje\obj\Debug\VeriYapilariProje.pdb
+C:\Users\kaans\OneDrive\Masaüstü\VeriYapilariProje\VeriYapilariProje\bin\Debug\VeriYapilariProje.exe.config
+C:\Users\kaans\OneDrive\Masaüstü\VeriYapilariProje\VeriYapilariProje\bin\Debug\VeriYapilariProje.exe
+C:\Users\kaans\OneDrive\Masaüstü\VeriYapilariProje\VeriYapilariProje\bin\Debug\VeriYapilariProje.pdb
+C:\Users\kaans\OneDrive\Masaüstü\VeriYapilariProje\VeriYapilariProje\obj\Debug\VeriYapilariProje.csproj.AssemblyReference.cache
+C:\Users\kaans\OneDrive\Masaüstü\VeriYapilariProje\VeriYapilariProje\obj\Debug\VeriYapilariProje.Form1.resources
+C:\Users\kaans\OneDrive\Masaüstü\VeriYapilariProje\VeriYapilariProje\obj\Debug\VeriYapilariProje.Properties.Resources.resources
+C:\Users\kaans\OneDrive\Masaüstü\VeriYapilariProje\VeriYapilariProje\obj\Debug\VeriYapilariProje.csproj.GenerateResource.cache
+C:\Users\kaans\OneDrive\Masaüstü\VeriYapilariProje\VeriYapilariProje\obj\Debug\VeriYapilariProje.csproj.CoreCompileInputs.cache
+C:\Users\kaans\OneDrive\Masaüstü\VeriYapilariProje\VeriYapilariProje\obj\Debug\VeriYapilariProje.exe
+C:\Users\kaans\OneDrive\Masaüstü\VeriYapilariProje\VeriYapilariProje\obj\Debug\VeriYapilariProje.pdb
+C:\Users\kaans\OneDrive\Masaüstü\asdasdsada\Yeni klasör\VeriYapilariProje\VeriYapilariProje\bin\Debug\VeriYapilariProje.exe.config
+C:\Users\kaans\OneDrive\Masaüstü\asdasdsada\Yeni klasör\VeriYapilariProje\VeriYapilariProje\bin\Debug\VeriYapilariProje.exe
+C:\Users\kaans\OneDrive\Masaüstü\asdasdsada\Yeni klasör\VeriYapilariProje\VeriYapilariProje\bin\Debug\VeriYapilariProje.pdb
+C:\Users\kaans\OneDrive\Masaüstü\asdasdsada\Yeni klasör\VeriYapilariProje\VeriYapilariProje\obj\Debug\VeriYapilariProje.csproj.AssemblyReference.cache
+C:\Users\kaans\OneDrive\Masaüstü\asdasdsada\Yeni klasör\VeriYapilariProje\VeriYapilariProje\obj\Debug\VeriYapilariProje.Form1.resources
+C:\Users\kaans\OneDrive\Masaüstü\asdasdsada\Yeni klasör\VeriYapilariProje\VeriYapilariProje\obj\Debug\VeriYapilariProje.Properties.Resources.resources
+C:\Users\kaans\OneDrive\Masaüstü\asdasdsada\Yeni klasör\VeriYapilariProje\VeriYapilariProje\obj\Debug\VeriYapilariProje.csproj.GenerateResource.cache
+C:\Users\kaans\OneDrive\Masaüstü\asdasdsada\Yeni klasör\VeriYapilariProje\VeriYapilariProje\obj\Debug\VeriYapilariProje.csproj.CoreCompileInputs.cache
+C:\Users\kaans\OneDrive\Masaüstü\asdasdsada\Yeni klasör\VeriYapilariProje\VeriYapilariProje\obj\Debug\VeriYapilariProje.exe
+C:\Users\kaans\OneDrive\Masaüstü\asdasdsada\Yeni klasör\VeriYapilariProje\VeriYapilariProje\obj\Debug\VeriYapilariProje.pdb
